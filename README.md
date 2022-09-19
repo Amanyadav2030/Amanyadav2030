@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aman yadav</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15" alt="amanyadav2030" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat" alt="amanyadav2030" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
