@@ -1,4 +1,4 @@
-### Hello
+
 
 <h1 align="center">Hi 👋, I'm Aman yadav</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
@@ -11,6 +11,6 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanyadav2030&show_icons=true&locale=en" alt="amanyadav2030" /></p>
+<p>&nbsp &nbsp &nbsp &nbsp &nbsp&nbsp&nbsp&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanyadav2030&show_icons=true&locale=en" alt="amanyadav2030" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanyadav2030&" alt="amanyadav2030" /></p>
