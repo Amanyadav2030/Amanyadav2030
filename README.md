@@ -14,7 +14,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanyadav2030" alt="shivam" /></a> </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-# 💻 Tech Stack:<h2><i>My Github Stats</i><h2>
+<h2><i>My Github Stats</i><h2>
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amanyadav2030&theme=gotham" alt="shivam" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=amanyadav2030&show_icons=true&theme=gotham" height="255px" width="47%"/>
@@ -27,8 +27,3 @@
 <div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amanyadav2030&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amanyadav2030&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanyadav2030&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
